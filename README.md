@@ -9,7 +9,7 @@ Una mejor nota esta directamente relacionada con mas horas de estudio.
 
 Con el archivo NBA 23_24 Players, respondemos a las siguientes preguntas:
 
-Los siguientes pasos son analizar las ligas europeas de futbol y las brasileras
+Los siguientes pasos son analizar las ligas europeas de futbol y la liga de brasil, aqui nos preguntamos nuevamente cuantos goles por partidos se anotaron 
 
 
 
