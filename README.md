@@ -27,8 +27,6 @@ Este repositorio contiene diversos notebooks y datasets relacionados con anális
 
 - **Tarea4_Alex_Gutierrez.ipynb**: Tarea académica número 4.
 
-- **Wrangling.ipynb**: Ejercicio de limpieza y transformación de datos.
-
 - **eGageRR1.XLS**: Documento relacionado con análisis de calidad (pendiente de definir).
 
 - **winequality.csv**: Dataset que contiene datos sobre la calidad del vino.
