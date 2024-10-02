@@ -1,4 +1,4 @@
-# Proyecto de Análisis de Datos - Temporada 2023-2024
+# Proyecto de Análisis de Datos 
 
 ## Descripción
 Este repositorio contiene diversos notebooks y datasets relacionados con análisis de datos de diferentes deportes, además de algunas tareas académicas y un conjunto de datos de calidad de vino. Los análisis incluyen datos de la NBA, la Premier League y otros.
