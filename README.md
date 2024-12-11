@@ -28,6 +28,7 @@ Este repositorio contiene diversos notebooks y datasets relacionados con anális
 - **Tarea4_Alex_Gutierrez.ipynb**: Tarea académica número 4.
 
 - **winequality.csv**: Dataset que contiene datos sobre la calidad del vino.
+- 
 
 
 
